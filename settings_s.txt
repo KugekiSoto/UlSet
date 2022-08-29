@@ -1,0 +1,60 @@
+1 - space
+2 - e
+3 -
+4 -
+5 -
+6 -
+7 -
+8 -
+9 -
+10 -
+11 -
+12 -
+13 -
+14 -
+15 -
+16 - 
+17 -
+18 - d
+
+port = 5070
+ipv4 = 192.168.0.128
+
+if u dont know ipv4 -
+win + r
+enter cmd
+type ipconfig
+enter
+u know ipv4
+
+42 - q                #example
+43 - ctrl+q
+44 - ctrl+shift+q
+45 - q+a
+46 - ctrl+q+a
+.....
+
+Keys -
+
+'alt'
+'alt gr'
+'ctrl'
+'left alt'
+'left ctrl'
+'left shift'
+'left windows'
+'right alt'
+'right ctrl'
+'right shift'
+'right windows'
+'shift'
+'windows'
+'enter'
+'esc'
+'f1'
+'f2'
+...
+'up'
+'down'
+'left'
+'right'
